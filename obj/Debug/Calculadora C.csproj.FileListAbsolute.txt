@@ -1,0 +1,10 @@
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\bin\Debug\Calculadora C.exe.config
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\bin\Debug\Calculadora C.exe
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\bin\Debug\Calculadora C.pdb
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\obj\Debug\Calculadora C.csproj.AssemblyReference.cache
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\obj\Debug\Calculadora_C.Form1.resources
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\obj\Debug\Calculadora_C.Properties.Resources.resources
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\obj\Debug\Calculadora C.csproj.GenerateResource.cache
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\obj\Debug\Calculadora C.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\obj\Debug\Calculadora C.exe
+C:\Users\ortiz\OneDrive\Escritorio\Trabajos U\Semestre 2\Codigos\C#\Calculadora\Calculadora C\Calculadora C\obj\Debug\Calculadora C.pdb
